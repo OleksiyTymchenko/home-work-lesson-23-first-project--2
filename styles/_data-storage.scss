@@ -40,3 +40,18 @@
     }
   }
 }
+@media screen and (max-width: 600px) {
+  .storage-bank {
+    .container {
+      .photo {
+        &__data {
+          transform: scale(0.7);
+        }
+      }
+      .text {
+        h2 {
+        }
+      }
+    }
+  }
+}
