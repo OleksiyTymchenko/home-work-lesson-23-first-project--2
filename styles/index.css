@@ -347,4 +347,7 @@ h3 {
   .storage-bank .container .photo__data {
     transform: scale(0.7);
   }
+}
+.none {
+  display: none;
 }/*# sourceMappingURL=index.css.map */
